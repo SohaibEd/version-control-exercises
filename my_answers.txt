@@ -1,3 +1,8 @@
 1
+<<<<<<< HEAD
 Test voor github
 Testen waarom pull belangrijk is
+=======
+test for tutorial
+testing why pull is important
+>>>>>>> 947797c2c1732436a49eb7b29c310006f0aabc53
