@@ -1,3 +1,7 @@
+<<<<<<< HEAD
 practicing git
 
 figuring out what will happen
+=======
+practicing git to learn more
+>>>>>>> 19d4ee830122e9d8cb9b602280157de8d83d1e5c
